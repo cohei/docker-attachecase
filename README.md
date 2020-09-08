@@ -1,6 +1,6 @@
 # docker-attachecase
 
-[![Docker Hub | cohei/attachecase](https://img.shields.io/badge/Docker%20Hub-cohei%2Fattachecase-blue?style=flat-square)](https://hub.docker.com/r/cohei/attachecase)
+[![Docker Hub | cohei/attachecase](https://img.shields.io/badge/Docker%20Hub-cohei%2Fattachecase-blue?style=flat-square)](https://hub.docker.com/repository/docker/cohei/attachecase)
 
 [アタッシェケース for Java](http://maruuofactory.life.coocan.jp/attachecase/) をどこでもコマンドで使えるよう Docker でつつんだもの。
 
