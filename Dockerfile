@@ -1,7 +1,6 @@
-# 9 では動かない
-FROM openjdk:8
+FROM openjdk:17-bullseye
 
-ENV ATTACHECASE_VERSION 073
+ENV ATTACHECASE_VERSION 075
 
 WORKDIR /app
 
